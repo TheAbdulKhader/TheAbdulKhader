@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @TheAbdulKhader
 - 👀 I’m interested in learning Cyber-Security
 - 🌱 I’m currently learning Cyber-Laws,GDPR Laws
-- 💞️ I’m looking to collaborate with Cyber Security Professionals
 - 📫 You can reach me on advocateabdulkhadershaik@gmail.com
 
 <!---
